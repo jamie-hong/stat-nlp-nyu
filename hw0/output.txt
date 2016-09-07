@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Ming
+   last: Hong
+email: mh4286@nyu.edu
+leaderboard: mingh
